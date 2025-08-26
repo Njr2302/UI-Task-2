@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Lake Serenity",
+        "description": "Enjoy the peaceful surroundings of serene lakes and calm waters.",
+        "imageUrl": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "title": "Beach Paradise",
+        "description": "Relax on pristine beaches with crystal clear waters and white sand.",
+        "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "title": "Mountain Escape",
+        "description": "Experience the breathtaking views of mountain ranges and fresh alpine air.",
+        "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "title": "Forest Retreat",
+        "description": "Immerse yourself in lush green forests and discover diverse wildlife.",
+        "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "title": "Desert Adventure",
+        "description": "Explore vast desert landscapes and experience unique cultures.",
+        "imageUrl": "https://images.unsplash.com/photo-1519681393784-d120267933ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "title": "Island Getaway",
+        "description": "Escape to tropical islands with palm trees and turquoise waters.",
+        "imageUrl": "https://images.unsplash.com/photo-1439066615861-d1af74d74000?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&q=80"
+    }
+]
