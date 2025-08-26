@@ -40,7 +40,7 @@ Ensure images maintain aspect ratio and text remains legible.
 
 ## Live Demo 🚀
 The project is deployed and can be viewed live on GitHub Pages:
-https://njr2302.github.io/Ui-Development-task-2/
+[https://njr2302.github.io/Ui-Development-task-2/](https://njr2302.github.io/UI-Task-2/)
 
 ## Tech Stack
 
